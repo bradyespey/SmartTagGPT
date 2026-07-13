@@ -11,6 +11,12 @@ dist-ssr/
 *secrets.json
 *secret.json
 *token*.json
+openai_api_key.json
+openai_model_id.json
+openai_job_id.json
+exported_tagged_reminders.csv
+fine_tune_dataset.jsonl
+edited_reminders.txt
 
 # Database files
 *.db
